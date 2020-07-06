@@ -9,3 +9,8 @@ dev.txt:500
 Pytorch
 Numpy
 tqdm
+
+实验结果：
+test Acc:71.0%
+test loss:0.8
+
